@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macarena/Documents/ALGORITMOS/Semana 0/train-count-pointers-macarenaoyague/count.h
+map
+-
+iterator
+-
+iostream
+-
+vector
+-
+
+/Users/macarena/Documents/ALGORITMOS/Semana 0/train-count-pointers-macarenaoyague/main.cpp
+iostream
+-
+count.h
+/Users/macarena/Documents/ALGORITMOS/Semana 0/train-count-pointers-macarenaoyague/count.h
+
